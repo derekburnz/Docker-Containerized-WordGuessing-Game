@@ -7,3 +7,4 @@ replace the <a4-server> with whatever image name you have
 
 https://github.com/icecloak/A4.git
 
+https://hub.docker.com/r/icecloak/a4-server/tags
